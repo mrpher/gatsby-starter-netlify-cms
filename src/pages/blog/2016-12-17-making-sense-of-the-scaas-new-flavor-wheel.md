@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: This is a test article
-date: 2021-02-25T14:10:15.905Z
+date: 2021-02-25T14:08:15.905Z
 description: The Coffee Taster’s Flavor Wheel, the official resource used by
   coffee tasters, has been revised for the first time this year.
 featuredpost: true
